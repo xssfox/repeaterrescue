@@ -1,0 +1,6 @@
+# KEYWORD1 specifies datatypes and C/C++ keywords
+Base32	KEYWORD1
+
+# KEYWORD2 specifies methods and functions
+toBase32	KEYWORD2
+fromBase32	KEYWORD2
